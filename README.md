@@ -3,6 +3,7 @@
 #准备  
 创建input文件夹  
 Track1
+LINK: https://pan.baidu.com/s/1zSZ-UpjLfgFlRcHtsFyfXA?pwd=1qz9 PASSWORD: 1qz9 
 
 #训练  
 代码中使用了100000行数据进行100轮训练
